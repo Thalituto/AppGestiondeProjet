@@ -1,20 +1,20 @@
 <h1>MProNephthali</h1>
 <p>Login</p>
-<img src="img/login.png"/>
+<img src="Img/login.png"/>
 
 <p>Project</p>
-<img src="img/projectindex.png"/>
+<img src="Img/projectindex.png"/>
 <p>Project view</p>
-<img src="img/projecttaches.png"/>
+<img src="Img/projecttaches.png"/>
 
 <p>User</p>
-<img src="img/Usertwo.png"/>
+<img src="Img/Usertwo.png"/>
 
 <p>Team</p>
-<img src="img/teamfive.png"/>
+<img src="Img/teamfive.png"/>
 
 <p>Task</p>
-<img src="img/task.png
+<img src="Img/task.png
 
 <p>Diagramme</p>
-<img src="img/MproNephthali.drawio.png"/>
+<img src="Img/MproNephthali.drawio.png"/>
